@@ -22,10 +22,10 @@ const nav: ThemeConfig['nav'] = [
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
-  '/blender/':[
+  '/blender/': [
     {
       text: '开始',
-      items:[
+      items: [
         {
           text: '简介',
           link: '/blender/introduction'
