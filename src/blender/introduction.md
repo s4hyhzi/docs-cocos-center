@@ -11,3 +11,6 @@
 ![动物毛发&人物皮肤](/public/images/image.png)
 ![硬表面&透明材质&布料材质](/public/images/image-1.png)
 ![丝袜材质](/public/images/image-2.png)
+
+## 案例地址 {#casus}
+[cocos-blender-shader](https://github.com/s4hyhzi/cocos-blender-shader)
