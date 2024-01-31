@@ -8,12 +8,12 @@ const nav: ThemeConfig['nav'] = [
     text: '文档',
     activeMatch: `^/(guide|style-guide|cookbook|examples)/`,
     items: [
-      { text: '用户手册', link: 'https://docs.cocos.com/creator/manual/zh' },
-      {
-        text: 'Blender阅读',
-        link: '/blender/introduction'
-      }
+      { text: '用户手册', link: 'https://docs.cocos.com/creator/manual/zh' }
     ]
+  },
+  {
+    text: 'Blender阅读',
+    link: '/blender/introduction'
   },
   {
     text: '官网',
