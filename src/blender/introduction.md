@@ -8,6 +8,6 @@
 
 ## 本文的目的 {#purpose}
 在cocos中实现 吉普力风格材质
-![Alt text](/public/images/image.png)
-![Alt text](/public/images/image-1.png)
-![Alt text](/public/images/image-2.png)
+![动物毛发&人物皮肤](/public/images/image.png)
+![硬表面&透明材质&布料材质](/public/images/image-1.png)
+![丝袜材质](/public/images/image-2.png)
